@@ -1,2 +1,2 @@
 # WT2-ACT2E-Group1
-For groupings laboratory
+For Group Laboratory
