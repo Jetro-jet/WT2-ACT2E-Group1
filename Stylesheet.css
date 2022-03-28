@@ -1,12 +1,9 @@
-<!doctypehtml>
-  <html>
-     <head>
-          <title> My Website </title>
-     </head>
-    
-     <body style="Background-color:lightpink">
-         <h1 style="color:Grey"> this is my Title</h1>
-         <p style="color green; font-style:italic; text-decoration: underline; text-decoration-color: purple;">
-         This is my whole content of my website </p>
-     <body>
-  <html>
+
+body{margin:0 auto; width:980px; position:relative;}
+div.navMENU{ width:100%;  height:50px;}
+div.navMENU ul{list-style-type:none; padding:0px; margin:0 auto;}
+div.navMENU li{float:left; padding:1px; margin:0px;}
+div.navMENU a{display:block; width:180px; border-radius:10px; -moz-border-radius:10px; -webkit-border:10px;}
+a:link{font-weight:bold; color: #0000ff; background-color:#ff66ff; text-align:center; text-decoration:rainbow;
+	   padding:5px;}
+a:hover{background-color:#00ff00;}
